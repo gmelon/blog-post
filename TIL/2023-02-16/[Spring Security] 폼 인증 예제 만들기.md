@@ -101,3 +101,6 @@ public class AccountService implements UserDetailsService {
 ## 질문
 ### 1. bcrypt 전략
 * https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-bcrypt-%EB%AA%A8%EB%93%88-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95#%EC%95%94%ED%98%B8%ED%99%94_%EB%AA%A8%EB%93%88
+
+## 출처
+https://www.inflearn.com/course/%EB%B0%B1%EA%B8%B0%EC%84%A0-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0
