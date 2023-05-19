@@ -89,4 +89,4 @@ public static <E extends Enum<E>> EnumSet<E> noneOf(Class<E> elementType) {
 
 구현부와 기능부를 분리하고 연결하여 새로운 기능(구현체)을 프레임워크에 추가한다는 관점에서 **브릿지패턴**이 적용되었다고도 볼 수 있는 것 같다.
 
->   이펙티브 자바 [전체 아이템 목록](https://github.com/2023-java-study/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%9E%90%EB%B0%94) (스터디 정리 레포지토리)
+>   ### 이펙티브 자바 [전체 아이템 목록](https://github.com/2023-java-study/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C_%EC%9E%90%EB%B0%94) (스터디 정리 레포지토리)
