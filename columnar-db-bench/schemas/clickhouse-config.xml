@@ -1,0 +1,8 @@
+<clickhouse>
+    <mark_cache_size>2147483648</mark_cache_size>
+    <uncompressed_cache_size>2147483648</uncompressed_cache_size>
+    <max_server_memory_usage_to_ram_ratio>0.85</max_server_memory_usage_to_ram_ratio>
+    <logger>
+        <level>information</level>
+    </logger>
+</clickhouse>
